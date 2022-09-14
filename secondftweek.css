@@ -1,0 +1,20 @@
+.navbar-background{
+    background-color: #ffefef;
+}
+.img{
+    background-color: #ffefef;
+}
+.ourstory{
+    background-image: url(https://res.cloudinary.com/oluwaloni/image/upload/v1662981153/Group_205.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 15rem;
+}
+.laptoplady{
+    position: absolute;
+    top: -269px;
+    left: 20px;
+    max-width: 100%;
+    height: auto; 
+}
